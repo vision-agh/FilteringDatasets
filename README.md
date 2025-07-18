@@ -10,6 +10,8 @@ _V2E_AGH_ directory contains datasets generated with the [V2E](https://github.co
 _Recorded_filtered_ directory contains datasts from _Recorded_ directory, but filtered with NN algorithm.\
 _Recorded_noise_ directory contains noise recorded with a DVS sensor.
 
+The datasets were used with the noise generator provided in [NoiseGeneratorCPP](https://github.com/vision-agh/NoiseGeneratorCPP) repository.
+
 If you find the resources usefull, please cite the paper.
 ```
 @article{Kowalczyk2025,
